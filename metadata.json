@@ -1,0 +1,6 @@
+{
+  "name": "HealthVault",
+  "description": "Your health. Your records. Your control. Privacy-focused healthcare platform with patient-controlled access, 24-hour expiration, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
